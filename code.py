@@ -29,7 +29,7 @@ while True:
             time.sleep(2.0)
 
     if is_movement_on:
-        mouse.move(x=2)
+        mouse.move(x=1)
         time.sleep(0.1)
-        mouse.move(x=-2)
+        mouse.move(x=-1)
         time.sleep(0.1)
