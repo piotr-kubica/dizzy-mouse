@@ -10,4 +10,4 @@ https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases
 stl directory includes stl Pi Pico case .3mf files for 3D printing.
 Used an M2 screw and a small tactile button (soldered between pins 20 and GND)
 
-<img src="https://github.com/piotr-kubica/dizzy-mouse/blob/main/img-dizzy-mouse.jpg" width="400">
+<img src="https://github.com/piotr-kubica/dizzy-mouse/blob/main/img-dizzy-mouse.jpg" width="550">
