@@ -1,4 +1,5 @@
 # dizzy-mouse
+DIY mouse mover / jigger
 Dizzy mouse moves all the time preventing PC from rest.
 
 Written in circuitpython for Pi Pico.
